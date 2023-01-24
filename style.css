@@ -1,3 +1,15 @@
 .col{
-    color: green;
+    color: blueviolet;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    background-color: beige;
+    align-self: center;
+    
+}
+.row{
+    color: aquamarine;
+}
+#content{
+    display: table-row;
 }
