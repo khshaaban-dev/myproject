@@ -1,22 +1,25 @@
-.col{
-<<<<<<< HEAD
+.col {
+
     color: green;
 }
-body{
+
+body {
     background-color: violet;
-=======
+
     color: blueviolet;
     font-size: large;
     font-weight: bold;
     font-style: italic;
     background-color: beige;
     align-self: center;
-    
+
 }
-.row{
+
+.row {
     color: aquamarine;
 }
-#content{
+
+#content {
     display: table-row;
->>>>>>> newbranch
+
 }
